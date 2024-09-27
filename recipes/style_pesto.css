@@ -1,0 +1,74 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+body{
+    background: rgb(197, 255, 255);
+}
+
+h1{
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    border-bottom: 5px double blue;
+    margin-left: 580px ;
+    
+}
+
+img{
+    width: 650px;
+    height: 400px;
+    margin-left: 380px ;
+    border: 5px solid black;
+}
+
+h2{
+    width: 180px;
+    height: 40px;
+    padding-left: 20px;
+    margin: 45px 0;
+    margin-left: 600px;
+    border: 5px solid red;
+}
+
+p{
+    text-align: center;
+}
+
+ul{
+    width: 500px;
+    background-color: pink;
+    border: 5px solid black;
+    margin-left: 420px;
+}
+
+ol{
+    border: 5px solid green;
+    height: 180px;
+    padding-top: 10px;
+}
+
+#jamon{
+    width: 50px;
+    border: 2px solid yellow;
+    background-color: white;
+    
+}
+
+#last_step{
+    border-bottom: 3px solid red;
+}
+
+.sal{
+    background-color: rgb(51, 255, 0);
+}
+
+.limon{
+    background-color: yellow;
+}
