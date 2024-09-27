@@ -1,0 +1,48 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+h1{
+    text-align: center;
+    width: 720px;
+    height: 50px;
+    
+}
+
+.image{
+    width: 600px;
+    height: 300px;
+    margin-left: 50px ;
+}
+
+h2{
+    padding: 10px;
+    border: 5px solid red;
+}
+
+p{
+    margin: 20px;
+}
+
+ul{
+    background-color: blue;
+    border: 5px solid black;
+}
+
+ol{
+    border: 5px solid green;
+}
+
+.goya{
+    background-color: yellow;
+}
+
+.disfrute{
+    background-color: green;
+}
